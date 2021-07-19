@@ -4,7 +4,8 @@ bin-release/
 [Oo]bj/
 [Bb]in/
 
-.data
+data/
+.ipynb_checkpoints/
 
 # Other files and folders
 .settings/
