@@ -6,6 +6,7 @@ bin-release/
 
 data/
 .ipynb_checkpoints/
+assets/
 
 # Other files and folders
 .settings/

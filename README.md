@@ -8,4 +8,4 @@ This month's dataset is related to US National Parks. You have been provided wit
 
 3. NPS_-_Land_Resources_Division_Boundary_and_Tract_Data_Service - Contains a shapefile of a large number of parks. Warning - not all parks are included in this shapefile. Obtained from https://www.arcgis.com/home/item.html?id=c8d60ffcbf5c4030a17762fe10e81c6a
 
-Link to public Story: https://public.tableau.com/app/profile/brenda.gutman/viz/national_parks/OurNationsNationalParks
+Link to public Story: https://public.tableau.com/app/profile/brenda.gutman/viz/national_parks/OurNationalParksDashboard
